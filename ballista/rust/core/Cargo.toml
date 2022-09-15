@@ -39,8 +39,8 @@ arrow-flight = { version = "20.0.0" }
 async-trait = "0.1.41"
 chrono = { version = "0.4", default-features = false }
 clap = { version = "3", features = ["derive", "cargo"] }
-datafusion = { git = "https://github.com/apache/arrow-datafusion", rev = "7aed4d697fa24053d515babfd7678855451c6736" }
-datafusion-proto = { git = "https://github.com/apache/arrow-datafusion", rev = "7aed4d697fa24053d515babfd7678855451c6736" }
+datafusion = { git = "https://github.com/ygf11/arrow-datafusion", rev = "7aed4d697fa24053d515babfd7678855451c6736" }
+datafusion-proto = { git = "https://github.com/ygf11/arrow-datafusion", rev = "7aed4d697fa24053d515babfd7678855451c6736" }
 futures = "0.3"
 hashbrown = "0.12"
 
